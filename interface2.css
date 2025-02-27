@@ -1,0 +1,41 @@
+body{
+    background-color:#f75990;
+    /* background-fit: ; */
+
+}
+.card{
+    background-color:#ffa8B6;
+    width:15dvw;
+    height: 60dvh;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content: center;
+    
+
+
+}
+.main img{
+    background-repeat:repeat;
+    background-position:center;
+    /* background-position: 0dvh; */
+
+}
+    
+
+.image img{
+    width: 15dvw;
+    height: 36dvh;
+    border-bottom-right-radius: 0cqmax;
+}
+.plan{
+    width:20dvw;
+    height:10dvh;
+    display:flex;
+    flex-direction:column;
+    /* color:azure; */
+    /* font-weight: 200; */
+}
+.details {
+    color:rgb(4, 53, 42);
+}
